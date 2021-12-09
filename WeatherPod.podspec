@@ -9,7 +9,7 @@ s.summary = "This pod contains the UI components for the weather app"
 s.requires_arc = true
 
 # 2
-s.version = "0.0.1"
+s.version = "0.1.0"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
